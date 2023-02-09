@@ -9,3 +9,12 @@
   console.log(product); //выводим наименование товара
   console.log(count * price); //общая сумма товара
 }
+{
+  const product = 'Машинка на пульте управления';
+  const count = 3;
+  const category = 'Игрушки';
+  const price = 3500;
+
+  console.log(product); //выводим наименование товара
+  console.log(count * price); //общая сумма товара
+}
